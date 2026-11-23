@@ -1,34 +1,21 @@
---- PRIMER MODULO "CONCEPTOS BÀSICOS DE REDES" ---
+# Módulo 1: Conceptos Básicos de Redes
 
-Internet: Primeramente, internet no le pertenece a una persona o grupo ya que el mismo es una colección mundial de redes conectadas entre si.
-Las redes se clasificas en varias, por ejemplo:
+## ¿Qué es Internet?
+No pertenece a una persona o grupo; es una colección mundial de redes interconectadas entre sí.
 
-- Redes domèsticas: Estas mismas solamente conectan algunas computadoras entre sí, y no abarca mucho espacio
-- Redes de oficinas pequeñas (SOHO): Estas permiten la comunicacion entre hosts que estan en un mismo espacio (una oficina, casa)
-- Redes medianas a grandes: Estas son las que la mayoria de escuelas, empresas usan en su dia a dia, esta misma puede abarcar todo un edificio y puede tener miles de hosts al mismo tiempo.
-- Redes mundiales: Es la responsable de que haya comunicación entre todo el mundo, entre millones de computadoras al mismo tiempo. 
+### Clasificación de las redes
+* **Redes domésticas (Home Networks):** Conectan pocas computadoras y dispositivos (celulares, televisores, consolas) en un espacio reducido.
+* **Redes de oficinas pequeñas (SOHO - Small Office/Home Office):** Permiten la comunicación entre *hosts* dentro de un mismo espacio de trabajo o vivienda.
+* **Redes medianas a grandes:** Usadas por escuelas y empresas. Abarcan edificios enteros y conectan cientos o miles de *hosts* simultáneamente.
+* **Redes mundiales:** Conectan millones de computadoras a nivel global (ej. Internet).
 
-Muchas cosas que ves en tu dìa a dìa se puede conectar a internet, desde un auto elèctrico, hasta algo simple como tu celular, consola, laptop, televisor, etc.
+## Unidades de datos y transmisión
+* **Bit (*Binary Digit*):** Es la unidad de datos más pequeña que interpreta una computadora. Solo toma dos valores: `1` o `0`.
+* **Ancho de banda (*Bandwidth*):** Capacidad de un medio para transportar datos. Se mide en cantidad de bits enviados por segundo (`bps`).
+  * `bps` (bits por segundo) = 1 bit
+  * `kbps` (kilobits por segundo) = 1,000 bps
+  * `Mbps` (megabits por segundo) = 1,000,000 bps
+  * `Gbps` (gigabits por segundo) = 1,000,000,000 bps
+  * `Tbps` (terabits por segundo) = 1,000,000,000,000 bps
+* **Latencia (*Latency*):** Cantidad de tiempo (incluyendo demoras o fallas) que tarda un dato en viajar de un punto a otro.
 
-¿Qué es el "Bit"?
-El bit en el lenguaje en las que las computadoras funcionan. UN bit esta conformado unicamente por "1" y "0".
-El término bit es la abreviatura de "binary digit" y representa la unidad de datos más pequeña. Así como nosotros solo interpretamos imagenes, videos, palabras; las computadoras solo interpretan unos y ceros (patrones de bits).
-
-¿Qué es el ancho de banda?
-El ancho de banda es la capacidad de recibir y transportar datos. En teoria el anchoi de banda digital se mide con la cantidad de bits y puede enviarse a través de los medios en un segundo.
-Las medidas comunes de ancho de banda son:
-
-miles de bits por segundo - kbps
-millores de bits por segundo - Mbps
-Miles de millones de bits por segundo - Gbps
-
-Cada unidad de medida tiene una equivalencia, las cuales son:
-
-bits por segundo (Bps) - 1 bps
-kilobits por segudo (kbps) - 1000 bps
-megabits por segundo (Mbps) - 1000.000 bps
-gigabits por segundo (Gbps) - 1000,000.000 bps
-terabits por segundo (Tbps) - 1000.000.000.000 bps
-
-¿Qué es la latencia? 
-Se refiere a la cantidad de tiempo, incluido las fallas o demoras. que le toma a los datos transferirse de un punto a otro.0
