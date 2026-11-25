@@ -1,0 +1,2 @@
+\# Laboratorio 02: Resolución de Direcciones ARP y DNS Jerárquico ## 1\. Problemática Técnica Determinar la resolución de direcciones de Capa 2 (MAC) a partir de direcciones de Capa 3 (IP) mediante la captura de tramas ARP en la interfaz \`wlan0\` en Artix Linux. ## 2\. Captura de Tráfico (tcpdump) \`\`\`text 17:49:52.795882 ARP, Ethernet (len 6), IPv4 (len 4), Request who-has 192.168.3.1 tell 192.168.3.11, length 28 17:49:52.797935 ARP, Ethernet (len 6), IPv4 (len 4), Reply 192.168.3.1 is-at 78:04:e3:b9:e4:9b, length 28
+
